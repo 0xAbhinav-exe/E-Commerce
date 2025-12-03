@@ -89,9 +89,10 @@ A full-featured desktop e-commerce application built with **Java** and **JavaFX*
 ## 👨‍💻 Author
 
 **Abhinav Kumar**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/0xAbhinav-exe)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
 
