@@ -56,8 +56,8 @@ A full-featured desktop e-commerce application built with **Java** and **JavaFX*
    Update `src/com/ecommerce/util/DBConnection.java`:
    ```java
    private static final String URL = "jdbc:mysql://localhost:3306/ecommerce_db";
-   private static final String USER = "your_username";
-   private static final String PASSWORD = "your_password";
+   private static final String USER = "root";
+   private static final String PASSWORD = "Abhi@123";
    ```
 
 4. **Run the Application**
@@ -86,15 +86,12 @@ A full-featured desktop e-commerce application built with **Java** and **JavaFX*
 - **Collections & Generics**: Type-safe collections
 - **Multithreading**: Background tasks for database operations
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
-**Your Name**
+**Abhinav Kumar**
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
